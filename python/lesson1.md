@@ -2,3 +2,4 @@
 - Added Python basics
 - Added variables explanation
 - Added print examples
+- Added simple exercises
