@@ -2,3 +2,4 @@
 - Added functions section
 - Added parameters explanation
 - Added return examples
+- Added exercises
