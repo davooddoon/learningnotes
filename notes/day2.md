@@ -3,3 +3,4 @@
 - Added bullet list
 - Added new section
 - Fixed typo
+- Added conclusion
