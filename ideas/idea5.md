@@ -3,3 +3,4 @@
 - Added structure
 - Added examples
 - Added next steps
+- Added intro
