@@ -2,3 +2,4 @@
 - Added intro
 - Added outline
 - Added details
+- Added conclusion
