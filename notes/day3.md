@@ -2,3 +2,4 @@
 - Added definitions
 - Added comparison table
 - Added notes for improvement
+- Added checklist
