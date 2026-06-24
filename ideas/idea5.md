@@ -2,3 +2,4 @@
 - Added draft
 - Added structure
 - Added examples
+- Added next steps
