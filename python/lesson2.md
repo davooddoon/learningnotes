@@ -2,3 +2,4 @@
 - Added loops explanation
 - Added for-loop examples
 - Added while-loop examples
+- Added practice tasks
