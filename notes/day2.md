@@ -2,3 +2,4 @@
 - Summary of today
 - Added bullet list
 - Added new section
+- Fixed typo
