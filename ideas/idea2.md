@@ -3,3 +3,4 @@
 - Added checklist
 - Added todo items
 - Updated idea description
+- Added intro
