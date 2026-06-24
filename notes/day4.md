@@ -2,3 +2,4 @@
 - Added intro paragraph
 - Added example scenario
 - Added reference link
+- Updated formatting
